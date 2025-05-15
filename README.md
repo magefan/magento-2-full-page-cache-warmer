@@ -6,6 +6,8 @@
 
 Improve your website loading speed with zero effort. Deliver the most recent version of the page to your customers faster since Magento Cache Warmer always keeps it warm.
 
+Compatibility: Magento 2.3.0 - 2.4.x (CE, EE, ECE, B2B)
+
 <img  align="right" width="120" height="70" src="https://magefan.com/media/wysiwyg/made_in_ukraine.jpg">
 
 <a href="https://magefan.com/magento-2-full-page-cache-warmer"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a>
